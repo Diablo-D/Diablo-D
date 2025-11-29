@@ -26,8 +26,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diablo-D&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-</div>
-
 <!-- Proudly created with GPRM and edited by Diablo-D ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Diablo-D/Diablo-D/blob/output/github-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=Diablo-D&color=blue)
+
+</div>
