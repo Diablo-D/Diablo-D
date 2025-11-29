@@ -32,4 +32,4 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/Diablo-D/Diablo-D/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/diablo-d/diablo-d/blob/output/github-snake-dark.svg)
