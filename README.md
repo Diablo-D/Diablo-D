@@ -4,7 +4,7 @@
 🌌 Complete Learner at Test.io <br/>
 ☑️ Multi certified learner at linkdln{www.linkedin.com/in/profile-view-daniel}
 
-
+<div align="center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel lee) 
@@ -18,6 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Diablo-D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Diablo-D&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diablo-D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![.](https://visitcount.itsvg.in/api?id=diablo-d&icon=10&color=2)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Diablo-D&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -27,6 +28,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diablo-D&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/Diablo-D/Diablo-D/blob/output/github-snake-dark.svg)
