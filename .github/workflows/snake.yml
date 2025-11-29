@@ -11,6 +11,12 @@ on:
   push:
     branches:
       - main
+      - master
+
+# --- ADD THIS BLOCK ---
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
