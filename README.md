@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header GIF">
+</div>
 ## Welcome to Diablos Page✨
 
 🧠 Computer science at Babcock Uni<br/>
@@ -30,5 +33,8 @@
 <!-- "for snake animation" ![snake gif](https://github.com/Diablo-D/Diablo-D/blob/output/github-snake-dark.svg) -->
 
 ![](https://komarev.com/ghpvc/?username=Diablo-D&color=blue)
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer GIF">
 
 </div>
