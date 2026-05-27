@@ -5,7 +5,7 @@
 
 🧠 Computer science at Babcock Uni<br/>
 🌌 Complete Learner at Test.io <br/>
-☑️ Multi certified learner at linkdln{www.linkedin.com/in/profile-view-daniel}
+☑️ Multi certified learner at linkdln{www.linkedin.com/in/dbolujo}
 
 <div align="center">
 
